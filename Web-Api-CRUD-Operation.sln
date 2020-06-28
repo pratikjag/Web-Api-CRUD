@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1145
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web-Api-CRUD-Operation", "Web-Api-CRUD-Operation\Web-Api-CRUD-Operation.csproj", "{03E4C154-EA44-4E44-BA6E-F2B747585C5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{A8D62DC3-1C25-460F-BDA8-96370107E2CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03E4C154-EA44-4E44-BA6E-F2B747585C5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03E4C154-EA44-4E44-BA6E-F2B747585C5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03E4C154-EA44-4E44-BA6E-F2B747585C5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03E4C154-EA44-4E44-BA6E-F2B747585C5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8D62DC3-1C25-460F-BDA8-96370107E2CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8D62DC3-1C25-460F-BDA8-96370107E2CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8D62DC3-1C25-460F-BDA8-96370107E2CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8D62DC3-1C25-460F-BDA8-96370107E2CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CB50E21-3462-4332-8626-688CB00CEB1B}
+	EndGlobalSection
+EndGlobal
